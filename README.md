@@ -67,4 +67,4 @@ sent back to CnC. How skills work is explained in the image below.
 
 
 ## Information 
-All of Audio file are located in Result Folder
+All of Audio Capture files are located in Result Folder
