@@ -1,0 +1,13 @@
+Python 		== 3.6.4
+Flask		== 0.12.1
+Flask-Ask	== 0.9.8
+pip		== 9.0.3
+werkzeug	== 0.16.0
+itsdangerous	== 2.0.1
+Jinja2		== 3.0.3
+cryptography	== 2.1.4
+MarkupSafe	== 2.0.1
+aniso8601	== 1.2.0
+pyOpenSSL	== 17.0.0
+PyYAML		== 5.4
+six		== 1.11.0
